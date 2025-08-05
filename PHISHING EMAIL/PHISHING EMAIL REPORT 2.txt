@@ -1,0 +1,47 @@
+EMAIL OVERVIEW:
+
+1) SENDER:
+	help@officesupportonline.com
+
+2) SUBJECT:
+	Message from facebook Support.
+
+3) MESSAGE CONTENT:
+	Claims the user's Facbook account is under copyright
+issue and will be deleted in 48 hrs unless they appeal via a link.
+
+
+
+PHISHING INDICATORS IN THE MAIL:
+
+
+1) FAKE EMAIL SENDER:
+	Comes from helps@officesupportonline.com, which has a nothing to do with
+facebook. This is not a official mail.
+	Official Facebook emails usually comes from @facebookmail.com or a similar 
+verified domain.
+
+2) URGENT AND THREATS:
+	User fear tatics 'your account will be deleted !' and 'within 48 hrs'.
+	This is classic social engineering meant to pressure you into clicking quickly
+without thinking.
+
+3) GAMMAR MISTAKES:
+	"deactived" instead of "deactivated".
+	Weird sentence structure "Attention to your actions."
+	These types of error are common by in phishing emails created by attackers
+in a rush or non-native speakers.
+
+4) SUSPECIOUS LINK:
+	 The link is masked to look like it’s from Facebook:
+https://www.facebook.com/01oix2/posts/102106376025783 
+However, phishing links often use real-looking URLs that redirect you to malicious websites or cloned login pages
+It could also be a trick using Facebook’s open redirect vulnerability.
+
+5) NO REFERENCE TO ACTUAL ACCOUNT:
+	There is no username, post content, or profile ID mentioned.
+	Legitimate emails from platforms like Facebook include more details.
+
+6) GENERIC MISTAKE:
+	Starts with “Hi Dear User” — not personalized.
+	Real services like Facebook use your full name in official emails.

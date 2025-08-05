@@ -1,0 +1,46 @@
+EMAIL OVERVIEW:
+
+1) SENDER:
+	authenticationmail@trust.ameribank7.com
+
+2) RECIPIENT:
+	johnsmith@email.com
+
+3) SUBJECT:
+	A new login to your bank account.
+
+4) CLAIMED INSTITUTION:
+	Bank Of America
+
+5) MESSAGE: 
+	Claims that the user had a login Miami and made 4 transcations, urging them to reset
+their password through a link.
+
+
+
+PHISHING INDICATORS IN THE MAIL:
+
+1) URGENT & FEAR TACTICS:
+	* The email user fear "4 transcation has been done without their knowledge".
+	* It pressure the user "If this was not you, please reset your password immediately..."
+
+2) SUSPICIOUS SENDER ADDRESS:
+	* The domain trust.ameribank7.com is not the official domain of Bank of the America.
+	* Official domains usually look like @bankofamerica.com, not @ameribank7.com
+
+3) FAKE RESET LINK:
+	* The link says " https://trust.ameribank7.com/reset-password". It actually looks
+like fake phishing link which is generate by the attacker.
+	* This is not a real Bank page of America. It could leads to steal credentials.
+
+4) GRAMMATICAL ERROR:
+	* The word "divice" is a type - should be "device".
+	* Small but important - professional emails form real banks are carefully written.
+
+5) GENERIC GREETING:
+	* Starts with "Dear acccount holder", insteads of using the person's name. Real bank usually
+adress you by your full name for security measurement.
+
+6) FAKE IP ADDRESS:
+	*IP 192.168.0.1 is a private IP address used inside home network not visible or usable
+over the internet. A real security alert would show a public IP like 203.0.113.5
