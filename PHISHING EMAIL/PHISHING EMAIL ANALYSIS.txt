@@ -10,19 +10,15 @@ name like( FACEBOOK , GOOGLE , BANK )to trick you into giving personal info like
 	Email spoofing is the cyber attack. The attack is mainly target to trcik the target client and try to 
 get the sensitive details. The sender's email address looks real but is actually fake. 
 
-3 )  HEADER ANALYSIS:
-
-	Emails may have hidden  info that shows that where the email really came from. You can copy this and 
-check it using online tools to find anything suspicious.
-
-4 )  SOCIAL ENGINEERING:
+3 )  SOCIAL ENGINEERING:
 
 	This means tricking peoples emotionally - like making them panic or rush. So they click links or 
 give away info without thinking
 
-5 )  THREAD DETECTION:
+4 )  THREAD DETECTION:
 
 	By checking for RED FLAG like weird email address, bad grammar,  scary messages or fake links,
  we can catch phishing emails before falling for them.
+
 
 
