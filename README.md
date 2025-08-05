@@ -28,9 +28,6 @@ This repository contains the analysis of two phishing emails. Each email is exam
 - Urgent language: "reset your password immediately"
 - Brand mismatch: "Bank America" instead of "Bank of America"
 
-**📷 Screenshot:**  
-![Bank Email](phishing_email_sample_1.png)
-
 ---
 
 ## 📧 Sample 2: Fake Facebook Copyright Violation
@@ -46,16 +43,12 @@ This repository contains the analysis of two phishing emails. Each email is exam
 - Grammatical issues: “deactived”, poor sentence structure
 - Suspect link that may redirect to phishing site
 
-**📷 Screenshot:**  
-![Facebook Email](phishing_email_sample_2.png)
-
 ---
 
 ## 🧠 Key Concepts Covered
 
 - **Phishing** – Deceptive emails to steal credentials
 - **Email Spoofing** – Fake sender addresses to gain trust
-- **Header Analysis** – (Optional if included) checking source of email
 - **Social Engineering** – Using fear or urgency to pressure the user
 - **Threat Detection** – Identifying red flags in emails
 
